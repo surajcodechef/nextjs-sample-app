@@ -1,0 +1,24 @@
+.embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+}
+.embla__slide {
+  flex: 0 0 100%;
+  min-width: 0;
+  position: relative;
+}
+/* .filter-gray{filter: invert(1);}
+.imageOverlay::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  background-color:#0604047a;
+}
+.header-element{
+  backdrop-filter: blur(10px);
+} */
