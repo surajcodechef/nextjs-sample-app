@@ -45,7 +45,7 @@ export default function ProductSlider() {
     
     <div className="py-[50px] w-full productSlider">
       <div className="container max-w-[1340px] mx-auto">
-        <h1 className="text-center text-4xl mb-3 font-bold">Top Selling Products</h1>
+        <h1 className="text-center text-4xl mb-3 font-bold">Top Selling Products List</h1>
         <p className="text-[grey] text-center mb-8 fw-light text-sm">
           Commodo sociosqu venenatis cras dolor sagittis integer<br />luctus sem primis eget maecenas.
         </p>
